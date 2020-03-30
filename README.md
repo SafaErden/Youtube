@@ -13,7 +13,7 @@ HTML & CSS Youtube PLayer Page Replica
 
 ## Live Demo
 
-[Live Demo Link](https://safaerden.github.io/Youtube/)
+[Live Demo Link](https://safaerden.github.io/Youtube-Player-Page-Replica/)
 
 
 ## Getting Started
